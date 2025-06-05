@@ -1,4 +1,4 @@
-# My HTML5 Recipe Website -  Odin Recipes
+# Odin Recipes Project HTML5
 
 A simple, static recipe website built purely with HTML5 to demonstrate core web development skills. This project serves as a foundational example for structuring web content.
 
