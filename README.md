@@ -12,3 +12,4 @@ The primary goal of this project is to showcase proficiency in HTML5 by creating
 
 ## Technologies Used
 * **HTML5:** The entire website is built using only HTML5, focusing on proper semantic elements to ensure a well-structured and accessible document.
+* **CSS3:** Used to style the website with custom fonts, colors, layout, and responsive design principles, enhancing the visual appearance and usability.
