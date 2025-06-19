@@ -8,3 +8,18 @@ body {
     max-width: 1080px;
     margin: auto;
 }
+.recipe-list {
+    list-style: none;
+    padding: 0px;
+}
+.recipe-item {
+    font-size: 25px;
+    padding: 8px;
+}
+.recipe-item:hover {
+    color: rgb(112, 111, 111);
+}
+.recipe-link {
+    text-decoration: none;
+    color: inherit;
+}
