@@ -27,3 +27,19 @@ body {
     text-decoration: none;
     color: inherit;
 }
+.breadcrumb {
+    background-color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.breadcrumb-link {
+    text-decoration: none;
+    color: inherit;
+}
+.breadcrumb-active {
+    color:rgb(87, 87, 87);
+}
+.breadcrumb-link:hover {
+    color: rgb(112, 111, 111);
+}
