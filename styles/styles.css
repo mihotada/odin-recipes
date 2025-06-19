@@ -9,7 +9,7 @@ body {
 
 .card {
     background-color: white;
-    padding: 10px;
+    padding: 10px 20px;
     margin: auto;
 }
 .recipe-list {
@@ -29,7 +29,7 @@ body {
 }
 .breadcrumb {
     background-color: white;
-    padding: 10px;
+    padding: 10px 20px;
     font-size: 20px;
     margin-bottom: 10px;
 }
