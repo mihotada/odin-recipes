@@ -11,6 +11,8 @@ body {
     background-color: white;
     padding: 10px 20px;
     margin: auto;
+    border-radius: 25px;
+    box-shadow: 3px 3px 20px grey;
 }
 .recipe-list {
     list-style: none;
