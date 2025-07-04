@@ -34,6 +34,8 @@ body {
     padding: 10px 20px;
     font-size: 20px;
     margin-bottom: 10px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 20px grey;
 }
 .breadcrumb-link {
     text-decoration: none;
